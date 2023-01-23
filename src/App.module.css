@@ -1,0 +1,10 @@
+.app {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.app h1 {
+    color: var(--title-color);
+    text-align: center;
+    margin: 1rem 0;
+}

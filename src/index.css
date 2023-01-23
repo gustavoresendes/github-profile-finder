@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Sofia Sans', sans-serif;
+  text-decoration: none;
+}
+
+:root {
+  --primary-color: #77ffc0;
+  --title-color: #00ff88;
+  --bg-color: #201b2c;
+  --input-color: #2f2841;
+  --input-bg: #514869;
+  --placeholder-color: #f0ffffde;
+  --button-color: #2b134b;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
