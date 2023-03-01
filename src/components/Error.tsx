@@ -1,6 +1,8 @@
 const Error = () => {
     return (
-        <div>
+        <div style={{
+            color: "red",
+        }}>
             <p>Usuário não encontrado!</p>
         </div>
     )
